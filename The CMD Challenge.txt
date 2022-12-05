@@ -1,0 +1,23 @@
+1)cd thecmdchallenge/
+2) pwd
+3)ls -a
+4) ls * -r
+5) clear
+6)find small-name
+7) cat small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/trophy.txt
+8) cd funcode/
+9)ls *.js
+10) mkdir the-most-funny/not-that-funny
+11) cd boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/
+12)  cp the-mostboring-text.txt lol.txt
+13)cd ..
+14)mv kids.jpg images/hello
+15)cd ..
+16)rm -r small-name
+17)cd funcode/the-most-funny/lol/
+18) cat the-ultimate-joke.txt
+19) cd ../../..
+20)rm -r boringfolder
+21) vi kamehameha/dragon-ball-jokes.md 
+22)ctrl+c
+23):wq
